@@ -1,0 +1,3 @@
+[submodule "DateLib"]
+	path = DateLib
+	url = https://github.com/tahameg/DateLib.git
